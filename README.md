@@ -1,19 +1,24 @@
-<h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">🚀 React Developer | Node.js Developer | Problem Solver</h3>
+<h1 align="center">Hey 👋 I'm Dhruv</h1>
+<h3 align="center">⚛️ React Developer | 🟢 Node.js Developer | 🐍 Python Learner</h3>
 
 <p align="center">
-  Building clean, scalable web applications and learning something new every day.
+  <i>Crafting ideas into code • Learning every day • Building for impact</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <hr/>
 
 <h2>🧠 About Me</h2>
 <ul>
-  <li>🎓 BCA Student & Passionate Web Developer</li>
-  <li>⚛️ React Developer focused on UI & UX</li>
-  <li>🟢 Node.js Developer building REST APIs</li>
-  <li>💻 Strong foundation in C, C++ & DSA</li>
-  <li>📈 Always learning, building & improving</li>
+  <li>🎓 BCA Student & passionate Full-Stack Developer</li>
+  <li>⚛️ Building interactive UIs with React</li>
+  <li>🟢 Developing scalable APIs using Node.js & Express</li>
+  <li>🐍 Exploring Python for logic, automation & backend concepts</li>
+  <li>🧠 Strong foundation in DSA with C & C++</li>
+  <li>🔥 Consistency-driven learner who loves building real projects</li>
 </ul>
 
 <hr/>
@@ -34,13 +39,14 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-<h3>📦 Programming & DSA</h3>
+<h3>🐍 Programming & DSA</h3>
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<h3>🛠️ Tools</h3>
+<h3>🛠️ Tools & Platforms</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -52,20 +58,33 @@
 
 <h2>📂 What You'll Find Here</h2>
 <ul>
-  <li>⚛️ React Projects & UI Components</li>
-  <li>🟢 Node.js APIs & Backend Logic</li>
-  <li>📚 Learning Projects & Experiments</li>
-  <li>🧠 DSA Practice & Problem Solving</li>
+  <li>⚛️ React apps & reusable UI components</li>
+  <li>🟢 Node.js REST APIs & backend logic</li>
+  <li>🐍 Python practice & experiments</li>
+  <li>🧠 DSA solutions & competitive programming prep</li>
+  <li>🧪 Mini projects & learning-based builds</li>
 </ul>
 
 <hr/>
 
-<h2>🎯 Currently Working On</h2>
+<h2>🎯 Current Focus</h2>
 <ul>
-  <li>🚀 Full-Stack Projects (React + Node.js)</li>
-  <li>📈 Improving DSA & Competitive Programming</li>
-  <li>🧩 Writing clean & scalable code</li>
+  <li>🚀 Full-Stack Development (React + Node.js)</li>
+  <li>📈 Improving problem-solving speed & accuracy</li>
+  <li>🧩 Writing clean, readable & scalable code</li>
 </ul>
+
+<hr/>
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
 
 <hr/>
 
@@ -76,5 +95,5 @@
 </p>
 
 <p align="center">
-  <b>“Code. Learn. Build. Repeat.”</b>
+  <b>“Write code that solves problems. Learn relentlessly. Build fearlessly.”</b>
 </p>
